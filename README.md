@@ -214,13 +214,25 @@ Add your result figures in a folder such as `docs/images/` and update the file n
 <img width="1000" height="446" alt="Result" src="https://github.com/user-attachments/assets/379d0e2c-b9f1-4756-a1ea-429f0c4b7d61" />
 
 
-### Qualitative Outputs
+### Output Images from Test Dataset
+<img width="1101" height="572" alt="res1" src="https://github.com/user-attachments/assets/371891a2-4655-402c-a053-8f30412bb884" />
 
-<img width="1050" height="371" alt="result1" src="https://github.com/user-attachments/assets/8339e741-d3e2-453a-84d9-b9ffe43d6916" />
+<img width="1091" height="563" alt="res2" src="https://github.com/user-attachments/assets/638f7f37-d1aa-49e0-a687-4ea8cac6376c" />
 
-<img width="1053" height="362" alt="result2" src="https://github.com/user-attachments/assets/99cf5cf1-f754-4534-a592-279ec56058b1" />
+<img width="1122" height="567" alt="res3" src="https://github.com/user-attachments/assets/3ee82954-0efc-4c81-b60a-bb7165b52eab" />
 
-<img width="1065" height="366" alt="result3" src="https://github.com/user-attachments/assets/5b70e200-d42c-4c44-a99f-455f5158c430" />
+<img width="1108" height="568" alt="res4" src="https://github.com/user-attachments/assets/a1e68000-8c65-4d99-a33b-8eb80183b0f1" />
+
+<img width="1112" height="552" alt="res5" src="https://github.com/user-attachments/assets/8b88c2d7-262c-485d-9b0c-d0937ba5cb08" />
+
+<img width="1111" height="548" alt="res6" src="https://github.com/user-attachments/assets/98c09acb-af96-4c97-9269-3c10010e76de" />
+
+
+
+
+
+
+
 
 
 
