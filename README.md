@@ -189,7 +189,31 @@ Planned workflow:
 ## CRS/Geo Alignment Requirements
 - Use georeferenced TIFFs (with valid affine transform).
 - Annotation coordinates are rasterized using inverse affine transform from each image TIFF.
-- Ensure annotation geometry and image CRS are aligned before evaluation.
+
+## Results and Visualizations
+
+Add your result figures in a folder such as `docs/images/` and update the file names below.
+
+### Training Curves
+
+#### Training and Validation Loss
+<img width="850" height="547" alt="graph" src="https://github.com/user-attachments/assets/ad0afc57-dfc9-4fb7-9dcb-b203176f23f6" />
+
+
+#### IoU / mIoU Result
+<img width="1000" height="446" alt="Result" src="https://github.com/user-attachments/assets/379d0e2c-b9f1-4756-a1ea-429f0c4b7d61" />
+
+
+### Qualitative Outputs
+
+<img width="1050" height="371" alt="result1" src="https://github.com/user-attachments/assets/8339e741-d3e2-453a-84d9-b9ffe43d6916" />
+
+<img width="1053" height="362" alt="result2" src="https://github.com/user-attachments/assets/99cf5cf1-f754-4534-a592-279ec56058b1" />
+
+<img width="1065" height="366" alt="result3" src="https://github.com/user-attachments/assets/5b70e200-d42c-4c44-a99f-455f5158c430" />
+
+
+
 
 
 
