@@ -41,6 +41,9 @@ The trained model folder is large and may exceed GitHub size limits, so model we
 The submission notebook for patch generation is:
 - `generate_geospatial_patches_submission.ipynb`
 
+The class Mapping file :
+- `class_mappings.json`
+
 It supports:
 - loading a trained model and class mappings,
 - GeoTIFF input inference,
