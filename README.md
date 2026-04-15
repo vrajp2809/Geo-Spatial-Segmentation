@@ -31,6 +31,13 @@ The main deliverable is:
 The trained model artifact is:
 - `mask2former-best-fresh`
 
+## Model Weights Access (Google Drive)
+The trained model folder is large and may exceed GitHub size limits, so model weights are shared via Google Drive.
+
+- Google Drive link: [Google Drive Folder](https://drive.google.com/drive/folders/12hKH-ibkor8TKzERF5agU9z3bnrH0rW1?usp=drive_link)
+- Download the model folder and keep the folder name as `mask2former-best-fresh`.
+- Place it in your working directory (or any path you prefer) and set `MODEL_DIR` in the inference notebook accordingly.
+
 The submission notebook for patch generation is:
 - `generate_geospatial_patches_submission.ipynb`
 
