@@ -21,7 +21,7 @@ flowchart LR
 ### Component View
 - Data Inputs: GeoTIFF images, (For testing : annotation JSON files, optional mask rasters).
 - Inference: notebook for TIFF input to GeoTIFF mask output.
-- Visualization: per-image overlay of input image with GT and predicted mask.
+- Visualization: per-image overlay of input image with GT(Ground Truth) and predicted mask.
 - Future extension: large-image tiling and stitched GeoTIFF reconstruction.
 
 ## Primary Deliverable
