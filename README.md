@@ -230,6 +230,7 @@ Add your result figures in a folder such as `docs/images/` and update the file n
 
 CS25M103 - Govind Kumar Singh
 CS25M121 - Vraj Patel
+CS25M113 - Priyanshu Verma
 
 
 
