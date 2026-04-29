@@ -228,6 +228,9 @@ Add your result figures in a folder such as `docs/images/` and update the file n
 <img width="1111" height="548" alt="res6" src="https://github.com/user-attachments/assets/98c09acb-af96-4c97-9269-3c10010e76de" />
 
 
+CS25M103 - Govind Kumar Singh
+CS25M121 - Vraj Patel
+
 
 
 
