@@ -3,7 +3,7 @@
 - CS25M121 - Vraj Patel
 - CS25M113 - Priyanshu Verma
 - CS25M116 - Ravee Mishra
-- CS25M104 - Harsh Netam
+
   
 # Geo-Spatial-Segmentation
 
