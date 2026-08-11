@@ -1,10 +1,3 @@
-# Team Members
-- CS25M103 - Govind Kumar Singh
-- CS25M121 - Vraj Patel
-- CS25M113 - Priyanshu Verma
-- CS25M116 - Ravee Mishra
-
-  
 # Geo-Spatial-Segmentation
 
 This repository contains a Mask2Former-based geospatial segmentation workflow for GeoTIFF imagery, where the main deliverable takes TIFF input images and exports predicted masks as GeoTIFF output files.
